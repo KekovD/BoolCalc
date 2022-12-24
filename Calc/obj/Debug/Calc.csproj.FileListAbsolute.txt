@@ -1,0 +1,7 @@
+D:\Algos\Lab_7\Lab_7.C.C#\Calc\Calc\bin\Debug\Calc.exe
+D:\Algos\Lab_7\Lab_7.C.C#\Calc\Calc\bin\Debug\Calc.pdb
+D:\Algos\Lab_7\Lab_7.C.C#\Calc\Calc\obj\Debug\Calc.csproj.AssemblyReference.cache
+D:\Algos\Lab_7\Lab_7.C.C#\Calc\Calc\obj\Debug\Calc.csproj.SuggestedBindingRedirects.cache
+D:\Algos\Lab_7\Lab_7.C.C#\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+D:\Algos\Lab_7\Lab_7.C.C#\Calc\Calc\obj\Debug\Calc.exe
+D:\Algos\Lab_7\Lab_7.C.C#\Calc\Calc\obj\Debug\Calc.pdb
